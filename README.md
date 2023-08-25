@@ -2,8 +2,6 @@
 
 Modern approaches to architecture and feature development in React apps.
 
-### Come chat with us on [discord](https://discord.gg/SbDwke7wpy).
-
 ## Suggestions
 
 To start a discussion about a particular idea you'd like to champion (or think we should be covering), please open an issue in our GitHub repository with the label `Question` or join us on Discord and start the conversation there.
